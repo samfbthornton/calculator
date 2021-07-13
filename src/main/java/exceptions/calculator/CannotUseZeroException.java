@@ -1,6 +1,6 @@
 package exceptions.calculator;
 
-public class CannotUseZeroException extends Exception {
+public class CannotUseZeroException extends RuntimeException {
 
 	/**
 	 * 

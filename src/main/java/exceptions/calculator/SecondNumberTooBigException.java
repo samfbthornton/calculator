@@ -1,6 +1,6 @@
 package exceptions.calculator;
 
-public class SecondNumberTooBigException extends Exception {
+public class SecondNumberTooBigException extends RuntimeException {
 
 	/**
 	 * 
